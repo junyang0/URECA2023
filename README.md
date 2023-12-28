@@ -5,4 +5,4 @@ Documenting my process here 😄
 
 # Reproducing results 
 1. Reproducing results from https://github.com/ChickenBenny/Stock-prediction-with-GAN-and-WGAN.
-  - Currently in data preprocessing stage
+ 
